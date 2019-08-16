@@ -2,4 +2,5 @@
 1 两数之和 https://github.com/githubpeichao/leetcode/tree/master/%231/src/Solution.java  
 2 两数相加 https://github.com/githubpeichao/leetcode/blob/master/%232/src/Solution.java  
 3 无重复字符的最长子串 https://github.com/githubpeichao/leetcode/blob/master/%233/src/Solution.java  
-5 最长回文子串 https://github.com/githubpeichao/leetcode/edit/master/%235/src/Solution.java
+5 最长回文子串 https://github.com/githubpeichao/leetcode/edit/master/%235/src/Solution.java  
+6 Z字形变换 https://github.com/githubpeichao/leetcode/blob/master/%236/src/Solution.java
