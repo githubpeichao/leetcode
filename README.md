@@ -13,7 +13,9 @@
 20 有效的括号 https://github.com/githubpeichao/leetcode/blob/master/%2320/src/Solution.java  
 21 合并两个有序链表 https://github.com/githubpeichao/leetcode/blob/master/%2321/src/Solution.java  
 46 全排列 https://github.com/githubpeichao/leetcode/blob/master/%2346/src/Solution.java  
+53 最大子序和 https://github.com/githubpeichao/leetcode/blob/master/%2353/src/Solution.java  
 55 跳跃游戏 https://github.com/githubpeichao/leetcode/blob/master/%2355/src/Solution.java  
+62 不同路径 https://github.com/githubpeichao/leetcode/blob/master/%2362/src/Solution.java  
 64 最小路径和 https://github.com/githubpeichao/leetcode/blob/master/%2364/src/Solution.java  
 78 子集 https://github.com/githubpeichao/leetcode/blob/master/%2378/src/Solution.java  
 84 柱状图中最大的矩形 https://github.com/githubpeichao/leetcode/blob/master/%2384/src/Solution.java  
