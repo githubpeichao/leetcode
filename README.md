@@ -12,6 +12,7 @@
 19 删除链表的第n个节点 https://github.com/githubpeichao/leetcode/blob/master/%2319/src/Solution.java  
 20 有效的括号 https://github.com/githubpeichao/leetcode/blob/master/%2320/src/Solution.java  
 21 合并两个有序链表 https://github.com/githubpeichao/leetcode/blob/master/%2321/src/Solution.java  
+31 下一个排列 https://github.com/githubpeichao/leetcode/blob/master/%2331/src/Solution.java  
 46 全排列 https://github.com/githubpeichao/leetcode/blob/master/%2346/src/Solution.java  
 53 最大子序和 https://github.com/githubpeichao/leetcode/blob/master/%2353/src/Solution.java  
 55 跳跃游戏 https://github.com/githubpeichao/leetcode/blob/master/%2355/src/Solution.java  
