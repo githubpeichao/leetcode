@@ -15,6 +15,7 @@
 26 删除排序数组中的重复项 https://github.com/githubpeichao/leetcode/blob/master/%2326/src/Solution.java  
 31 下一个排列 https://github.com/githubpeichao/leetcode/blob/master/%2331/src/Solution.java  
 34 在排序数组中查找元素的第一和最后一个位置 https://github.com/githubpeichao/leetcode/blob/master/%2334/src/Solution.java  
+39 组合总和 https://github.com/githubpeichao/leetcode/blob/master/%2339/src/Solution.java  
 46 全排列 https://github.com/githubpeichao/leetcode/blob/master/%2346/src/Solution.java  
 53 最大子序和 https://github.com/githubpeichao/leetcode/blob/master/%2353/src/Solution.java  
 55 跳跃游戏 https://github.com/githubpeichao/leetcode/blob/master/%2355/src/Solution.java  
