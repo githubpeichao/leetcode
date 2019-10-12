@@ -26,6 +26,7 @@
 102 二叉树的层序遍历 https://github.com/githubpeichao/leetcode/blob/master/%23102/src/Solution.java  
 104 二叉树的最大深度 https://github.com/githubpeichao/leetcode/blob/master/%23104/src/Solution.java  
 121 买卖股票的最佳时机 https://github.com/githubpeichao/leetcode/blob/master/%23121/src/Solution.java  
+128 最长连续序列 https://github.com/githubpeichao/leetcode/blob/master/%23128/src/Solution.java  
 141 环形链表 https://github.com/githubpeichao/leetcode/blob/master/%23141/src/Solution.java  
 198 打家劫舍 https://github.com/githubpeichao/leetcode/blob/master/%23198/src/Solution.java  
 213 打家劫舍II https://github.com/githubpeichao/leetcode/blob/master/%23213/src/Solution.java
