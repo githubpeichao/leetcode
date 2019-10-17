@@ -42,4 +42,5 @@
 279 完全平方数 https://github.com/githubpeichao/leetcode/blob/master/%23279/src/Solution.java  
 287 寻找重复数 https://github.com/githubpeichao/leetcode/blob/master/%23287/src/Solution.java  
 461 汉明距离 https://github.com/githubpeichao/leetcode/blob/master/%23461/src/Solution.java  
-448 找到所有数组中消失的数 https://github.com/githubpeichao/leetcode/blob/master/%23448/src/Solution.java
+448 找到所有数组中消失的数 https://github.com/githubpeichao/leetcode/blob/master/%23448/src/Solution.java  
+538 把二叉搜索树转换成累加树 https://github.com/githubpeichao/leetcode/blob/master/%23538/src/Solution.java
