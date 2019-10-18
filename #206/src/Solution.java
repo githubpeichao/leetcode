@@ -1,3 +1,6 @@
+/*
+反转一个单链表。
+*/
 class ListNode {
      int val;
      ListNode next;

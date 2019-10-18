@@ -1,10 +1,19 @@
+/*
+设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。
+
+push(x) -- 将元素 x 推入栈中。
+pop() -- 删除栈顶的元素。
+top() -- 获取栈顶元素。
+getMin() -- 检索栈中的最小元素。
+
+*/
 import java.util.Stack;
 
 class MinStack {
 
-    // ����ջ
+    // 数据栈
     private Stack<Integer> data;
-    // ����ջ
+    // 辅助栈
     private Stack<Integer> helper;
 
     /**
@@ -15,10 +24,10 @@ class MinStack {
         helper = new Stack<>();
     }
 
-    // ˼· 1������ջ�͸���ջ���κ�ʱ��ͬ��
+    // 思路 1：数据栈和辅助栈在任何时候都同步
 
     public void push(int x) {
-        // ����ջ�͸���ջһ��������Ԫ��
+        // 数据栈和辅助栈一定会增加元素
         data.add(x);
         if (helper.isEmpty() || helper.peek() >= x) {
             helper.add(x);
@@ -28,7 +37,7 @@ class MinStack {
     }
 
     public void pop() {
-        // ����ջ���� pop
+        // 两个栈都得 pop
         if (!data.isEmpty()) {
             helper.pop();
             data.pop();
@@ -39,14 +48,14 @@ class MinStack {
         if(!data.isEmpty()){
             return data.peek();
         }
-        throw new RuntimeException("ջ��Ԫ��Ϊ�գ��˲����Ƿ�");
+        throw new RuntimeException("栈中元素为空，此操作非法");
     }
 
     public int getMin() {
         if(!helper.isEmpty()){
             return helper.peek();
         }
-        throw new RuntimeException("ջ��Ԫ��Ϊ�գ��˲����Ƿ�");
+        throw new RuntimeException("栈中元素为空，此操作非法");
     }
 }
 
