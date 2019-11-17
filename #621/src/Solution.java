@@ -27,7 +27,7 @@ class Solution {
         int res=(maxcount-1)*(n+1)+1;
         int i=24;
         while(i>=0 && count[i]==maxcount){
-            res++;
+            res++;    //排在最后面的+1
             i--;
         }
         return Math.max(res,tasks.length); //如果前面排完了还有空槽，说明res是最佳的。如果空槽没了还有任务未排进去，说明按照原数组长度即可
